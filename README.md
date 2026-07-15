@@ -30,7 +30,7 @@
 ...
 
 ## Propriedades estáticas (static)
-
+//
 ...
 
 ## Encapsulamento
