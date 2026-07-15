@@ -15,7 +15,7 @@
 
 ## Instanciação de objetos
 
-(esperar ser aprovado) [link](https://www.typescriptlang.org/play/?ts=5.9.3&install-plugin=@structured-types/instant-documentation-plugin#code/PTAEAcCcHsoSwKYBMCGSGgM7QLYIHYAuGANgnIQK6QqgAUkCa0+JAngJQBQXwAVKB4BBCDHjI0GRs1ZssCSADcM4FDVEJl+OJFABHShkVq4AQ+VxM8gFYocoHNCRwAZnADGaFFZTgAzz6gcNrucCgkcABeKADnAMfQoEjQXO5+zgDm0AB0oCLuABYo+O4Y6KAKMFYYOJSEsQCvCD6h6EQoltk8fMA87iTeVgCqmAqgAN5coNOg0smyQUgAXKD4lDgARgoANFMz+HYIK5iEkMEZANxcAL48ZISglKOQKyNjALwTiysAjNurhxWACIAIqGAhA25cJ4KbJwJCgT4-UAgJJqUyPeyVaD-awYgwYeEVE4Y9y4RJzFjsf7oTCjUDWciEHGgYjtXS1VC6BBkUC+AJ7GZCmao2juM6xBJJRLQDaM5lBSAYxiYSgkerc+zrUBknDgOC87GQf7gaCWUAAS4galoZAo1FovgI3myQA)
+
 
 ## Modificadores de acesso (public, private, protected)
 
@@ -23,7 +23,7 @@
 
 ## Propriedades somente leitura (readonly)
 
-...
+(esperar ser aprovado) [link](https://www.typescriptlang.org/play/?ts=5.9.3&install-plugin=@structured-types/instant-documentation-plugin#code/PTAEAcCcHsoSwKYBMCGSGgM7QLYIHYAuGANgnIQK6QqgAUkCa0+JAngJQBQXwAVKB4BBCDHjI0GRs1ZssCSADcM4FDVEJl+OJFABHShkVq4AQ+VxM8gFYocoHNCRwAZnADGaFFZTgAzz6gcNrucCgkcABeKADnAMfQoEjQXO5+zgDm0AB0oCLuABYo+O4Y6KAKMFYYOJSEsQCvCD6h6EQoltk8fMA87iTeVgCqmAqgAN5coNOg0smyQUgAXKD4lDgARgoANFMz+HYIK5iEkMEZANxcAL48ZISglKOQKyNjALwTiysAjNurhxWACIAIqGAhA25cJ4KbJwJCgT4-UAgJJqUyPeyVaD-awYgwYeEVE4Y9y4RJzFjsf7oTCjUDWciEHGgYjtXS1VC6BBkUC+AJ7GZCmao2juM6xBJJRLQDaM5lBSAYxiYSgkerc+zrUBknDgOC87GQf7gaCWUAAS4galoZAo1FovgI3myQA)
 
 ## Métodos estáticos (static)
 
