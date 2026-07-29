@@ -76,8 +76,7 @@
 ...
 
 ## Herança simples
-
-...
+(2 heranças simples?)
 
 ## Cadeia de herança
 
