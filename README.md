@@ -65,7 +65,7 @@
 
 ## Sobrecarga de métodos (method overloading)
 
-...
+;; [link](https://www.typescriptlang.org/play/?ts=5.9.3&install-plugin=@structured-types/instant-documentation-plugin#code/PTAEHkDUFECUBlwEEAiAoNwBUGDKB7AIwCcBTAYwENiBzS0AS9EoBsb9QBHAV1NADd85AFegAZpQBeocvgC247gDsA5wFfSAZwDcoJQGOOAB2r053ACbVQm0txnyj+YgBdKc0kpf4ANGjmUmjYAlgomxPQWwfykxJrBYsFUxDbc9IHxSpQu3BEAdKAAqgGKqoY2RGTJZHRWoAFeDAoc-lpyHEryfHViyiqGPvWBoE4WfMFexPgW3JLBKdwlGRPZuZEJsZ4upAUYWMAYvUrkLsH4ShUBABRKAIwAXHqLhLGDSgBMj0rPsQCUoABvNCgEGgMg5YgXO6gADUeneaAAvhhZEpNC5mKAALyXShXW6Dd7-NCozT4Fg7Fj4GhXSj-ECgAByzgCLEG-EowVAVhSAGYUed0aBCNjcfjCYMAOzE0nkynUq6EelgJClfocMT4LlkkgUag1ShWIA)
 
 ## Parâmetros opcionais em métodos
 
