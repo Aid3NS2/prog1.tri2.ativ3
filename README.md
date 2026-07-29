@@ -61,7 +61,7 @@
 
 ## Sobrescrita de métodos (override)
 
-...
+;; [link](https://www.typescriptlang.org/play/?ts=5.9.3&install-plugin=@structured-types/instant-documentation-plugin#code/PTAEHkDUFECVYJIBFoChXAFToMoHsAjAJwFMBnAY1IDcSjQBXAW1CYEuAXPAEz1DcZMAhqCEBzgMd8AjgxKhqeCgCvQpIQBsAlgC8RAByFERmjnSOg+FPE314iHIUxIA7LqG7zmrTjz4kWZhEyBgIKDSEyMhIAOlBUAEE+MkJSSho6QR8uXgAaUHJ9cwBaaNBZeUUVUH1SMxduEw0zY3orGzsHJ1d3Q24iKQ8+dhy8fIALOkbeDxFwyLLDLRj0TGB0eajQAAkglz4Ab1RQNRIKJCEXAAoASlAjk5PrFxSNWI08AHMrgANIJVUpAoJAIJAYoAAjAAGDzyRr7H43ADcx1AAF9UBjUJsyKAALJCT7+AAe9W4uN2wn291RQIu1zuD0ez1e7y+v3+1SBILBoAArLDZgjkaiMViQKAEqAcfICUT8tYWMNfDM6Zc+AAzPBaUApYjkKhaRyiGpGDhaeieHZ7MaCES0HTlOTxCUyZ1anUGohG4YMXgMOKc1Reki0cE-ALSrTCH5DJ3yc0ucYmNzkBU2PiGKIWaxEOpaRSoIA)
 
 ## Sobrecarga de métodos (method overloading)
 
