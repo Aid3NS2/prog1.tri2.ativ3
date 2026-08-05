@@ -77,7 +77,7 @@
 
 ## Cadeia de herança
 
-...
+;; [link](https://www.typescriptlang.org/play/?ts=5.9.3&install-plugin=@structured-types/instant-documentation-plugin#code/PTAEGEEEBEFEElIGVR1ACVgJUgOQOOQBQRwAVCeAIYAmApgJYBOVAzqPaABZ0sB2Ac6qhWAY4D2IhgFsADgBs6raXT4AXOqADG8tqyWgAjgFdNdAB4a+9adt2t97E2cuqbRHXqUAaUJr0yoLQMVOp0AHSgsPagsuI2IrygxmoM8gwAXrRssVQsoBpMQfIA5sbSwp4Oms6gAJdE5cIARABGbHTNftri6gx8xnlBuUypRTQMDuLhJGTAJFXsACoydADSdHSyvKwA+ki8DAYA3kSg56AgoOE3oEQAvgv27OBceVRahewWVjTLqxstjt9ocTmcLlcbjNHh5nqAAGLieTycQAdx2flc1hebxYnwxpwulzAUIeTz0COMTBCmN+7ERyLRBPB50hNzJV38DkCWl6qQGVChQA)
 
 ## Tratamento de exceções (throw, try, catch)
 
